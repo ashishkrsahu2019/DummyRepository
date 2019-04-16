@@ -1,2 +1,2 @@
-# DummyRepository
-Dummy project set up
+# Employee Iteration
+[image.png](images/HRTalent.png)
