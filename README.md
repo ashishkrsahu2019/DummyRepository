@@ -1,2 +1,2 @@
 # Employee Iteration
-[image.png](images/HRTalent.png)
+[image.png](image/HRTalent.png)
